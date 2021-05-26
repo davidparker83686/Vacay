@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n3ocg6/uHY3+AaP0bMbdAJ6nLxRSJn4YdFJHqKUGBMGGIfy9JmVM+rjUiGqB3huLsznKdaRhS66RUM/rKOpOAQ==",
+  "success": true,
+  "projectFilePath": "/Users/davidparker/Documents/source/codeworks/Vacay/Vacay.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidparker/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/davidparker/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/davidparker/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/davidparker/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/davidparker/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/davidparker/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
